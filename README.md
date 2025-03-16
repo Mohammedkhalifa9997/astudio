@@ -69,8 +69,8 @@ POST /api/register
 
 ```json
 {
-  "first_name": "mohammed",
-  "last_name": "mohammed",
+  "first_name": "astudio",
+  "last_name": "task",
   "email": "astudio@gmail.com",
   "password": "password"
   "password_confirmation": "password"
